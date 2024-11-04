@@ -1,0 +1,16 @@
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\bin\Debug\LiveCharts.dll
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.dll
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\bin\Debug\LiveCharts.Wpf.dll
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.pdb
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\bin\Debug\LiveCharts.WinForms.xml
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\уроки\рабочий стол\LNU files\ДВ Програмування паралельних обчислень 2024\lab\WindowsFormsApp1\obj\Debug\MatrixComputation.MainForm.resources
